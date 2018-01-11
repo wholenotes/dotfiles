@@ -38,6 +38,7 @@ vim_configurable.customize {
         "ctrlp"
         "fugitive"
         "nerdtree"
+        "purescript-vim"
         "vim-ack"
         "vim-json"
         "vim-addon-nix"
